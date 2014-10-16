@@ -10,11 +10,12 @@ Actualy at the moment
  - make the php file do stuff in loops
  - thats basicly it
 
+Start the script by simply:
 
     php console.php
 
 
-Will sart your script.
+
 
 Add tasks by putting them in the tasks folder, and put the data in the json.
 I kinda have an idea for it : but i'm working it out first :D.
