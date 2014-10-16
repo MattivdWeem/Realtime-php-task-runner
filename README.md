@@ -23,5 +23,13 @@ Meanwhile the loop has the possebility to w/e it wants, and when there is a key 
 
 Some examples comming soon: probably better code comming soon ;)
 
+
+##### ps:
+Should you use this? probably not..
+Why not?
+ - it's php (ever heard of real time php?)
+ - it's slow (not in the mood as events are running slow, but more slow as in it's god damned slow in large tasks)
+ - there are better alternatives (have you seen node & grunt :D ?)
+
 have fun :)
 
