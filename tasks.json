@@ -1,0 +1,9 @@
+{
+    "hello-world": {
+        "version":  "1",
+        "launch":   "hello-world.php",
+        "every":    "6s",
+        "repeat":   5,
+        "update":   true
+    }
+}
