@@ -11,7 +11,7 @@ Actualy at the moment
  - thats basicly it
 
 
-        php console.php
+    php console.php
 
 
 Will sart your script.
