@@ -10,7 +10,9 @@ Actualy at the moment
  - make the php file do stuff in loops
  - thats basicly it
 
-     php console.php
+
+        php console.php
+
 
 Will sart your script.
 
